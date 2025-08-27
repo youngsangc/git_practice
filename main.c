@@ -16,7 +16,11 @@ void main(){
 
     int gg;
 
+<<<<<<< HEAD
     int hhh;
+=======
+    int ddd;
+>>>>>>> 08d673b (add ddd)
     
     int mmm;
 
