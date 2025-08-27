@@ -15,6 +15,8 @@ void main(){
     int ff;
 
     int gg;
+
+    int hhh;
     
 
     return 0;
